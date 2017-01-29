@@ -1,0 +1,9 @@
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Release\MonoGameToolkit.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Release\MonoGameToolkit.pdb
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Release\FarseerPhysics MonoGame.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Release\Ionic.Zip.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Release\MonoGame.Framework.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Release\NVorbis.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Release\OpenTK.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\obj\Release\MonoGameToolkit.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\obj\Release\MonoGameToolkit.pdb

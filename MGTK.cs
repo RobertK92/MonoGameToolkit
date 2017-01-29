@@ -123,9 +123,6 @@ namespace MonoGameToolkit
             Window.AllowUserResizing = false;
             Window.AllowAltF4 = true;
             
-            Window.Position = new Point(0, 0);
-
-            Console.WriteLine(Window.Position);
             Window.ClientSizeChanged += OnWindowResized;
 
             IsMouseVisible = true;
