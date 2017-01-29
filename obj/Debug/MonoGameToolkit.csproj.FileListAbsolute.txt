@@ -1,0 +1,10 @@
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Debug\MonoGameToolkit.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Debug\MonoGameToolkit.pdb
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Debug\FarseerPhysics MonoGame.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Debug\Ionic.Zip.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Debug\MonoGame.Framework.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Debug\NVorbis.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\bin\Debug\OpenTK.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\obj\Debug\MonoGameToolkit.csprojResolveAssemblyReference.cache
+C:\Github\MonoGameToolkit\MonoGameToolkit\obj\Debug\MonoGameToolkit.dll
+C:\Github\MonoGameToolkit\MonoGameToolkit\obj\Debug\MonoGameToolkit.pdb
